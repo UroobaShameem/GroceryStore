@@ -1,4 +1,5 @@
 function AddCart()
 {
-    document.getElementsByTagName("button")= alert("Item Added to Cart");
+    var text= "Item added to cart";
+    alert(text);
 }
